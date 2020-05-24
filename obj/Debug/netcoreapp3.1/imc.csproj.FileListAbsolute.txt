@@ -1,0 +1,11 @@
+C:\Users\Maria Luiza\Documents\Luiza\imc\imc\bin\Debug\netcoreapp3.1\imc.exe
+C:\Users\Maria Luiza\Documents\Luiza\imc\imc\bin\Debug\netcoreapp3.1\imc.deps.json
+C:\Users\Maria Luiza\Documents\Luiza\imc\imc\bin\Debug\netcoreapp3.1\imc.runtimeconfig.json
+C:\Users\Maria Luiza\Documents\Luiza\imc\imc\bin\Debug\netcoreapp3.1\imc.runtimeconfig.dev.json
+C:\Users\Maria Luiza\Documents\Luiza\imc\imc\bin\Debug\netcoreapp3.1\imc.dll
+C:\Users\Maria Luiza\Documents\Luiza\imc\imc\bin\Debug\netcoreapp3.1\imc.pdb
+C:\Users\Maria Luiza\Documents\Luiza\imc\imc\obj\Debug\netcoreapp3.1\imc.csprojAssemblyReference.cache
+C:\Users\Maria Luiza\Documents\Luiza\imc\imc\obj\Debug\netcoreapp3.1\imc.AssemblyInfoInputs.cache
+C:\Users\Maria Luiza\Documents\Luiza\imc\imc\obj\Debug\netcoreapp3.1\imc.AssemblyInfo.cs
+C:\Users\Maria Luiza\Documents\Luiza\imc\imc\obj\Debug\netcoreapp3.1\imc.dll
+C:\Users\Maria Luiza\Documents\Luiza\imc\imc\obj\Debug\netcoreapp3.1\imc.pdb
